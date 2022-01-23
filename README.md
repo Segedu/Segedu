@@ -1,1 +1,1 @@
-#hey, my name is Segedu and I am full-stack student
+#Hey, my name is Segedu, Full-stack Developer
